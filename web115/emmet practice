@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Document</title>
+</head>
+<body>
+.container>article>p*3>lorem20^^aside>ul>li*5>a>lorem10^^^^+footer  
+</body>
+</html>
